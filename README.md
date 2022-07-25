@@ -6,7 +6,7 @@
 - 🌱 Cloud Services that I know are: AWS,Google Cloud, MongoDB Cloud Database System Service, GitHub.
 - 🌱 Software that I know are: VS Code, Xampp, GitHub, MS Word, OneDrive, Google Drive.
 - 📫 I have built a lot of big and small projects in my GitHub account through different kind of repositories, if you like to contribute 
-or collaborate with me to develop more projects or improve any of my project, feel free to contact at email: phuongcoderinfinity@gmail.com.
+or collaborate with me to develop more projects or improve any of my project, feel free to contact me at email: phuongcoderinfinity@gmail.com.
 
 <!---
 phuongtrieu97coder/phuongtrieu97coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
